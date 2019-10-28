@@ -1,2 +1,2 @@
-# projectone
+# project one
 project one
